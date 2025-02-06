@@ -1,4 +1,8 @@
-### Hi there 👋
+### 01
+看0是0，见1是1；
+看0不是0，见1不是1；
+看0还是0，见1还是1。
+
 
 <!--
 **janeluck/janeluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
